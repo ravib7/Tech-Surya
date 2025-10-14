@@ -16,12 +16,9 @@ const Home = () => {
                         </span>
                     </h1>
 
-
-                    <div className="p-[1px] rounded-full bg-gradient-to-r from-[#FF7500] to-[#FFC05A] inline-block">
-                        <button className="btn w-40 rounded-full text-white bg-gradient-to-r from-[#00DDFF] to-[#FFC8C8] border-none">
-                            Enroll Now
-                        </button>
-                    </div>
+                    <button className="btn w-40 rounded-full text-white bg-gradient-to-r from-[#00DDFF] to-[#FFC8C8] shadow-md">
+                        Enroll Now
+                    </button>
 
 
                     <p className="absolute bottom-5 bg-white shadow-md rounded-xl rounded-br-none font-medium border px-4 py-3 text-gray-600">
